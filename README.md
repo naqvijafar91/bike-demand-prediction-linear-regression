@@ -40,8 +40,8 @@ Bike Demand Prediction with Linear Regression
 
 ## Contact
 Created by [Your Name] - feel free to contact me!
-- GitHub: [Your GitHub Profile](https://github.com/naqvijafar91)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syed-jafar-naqvi-343698a9/)
+- GitHub: [Syed Jafar Naqvi](https://github.com/naqvijafar91)
+- LinkedIn: [Syed Jafar Naqvi](https://www.linkedin.com/in/syed-jafar-naqvi-343698a9/)
 
 <!-- Optional -->
 <!-- ## License -->
